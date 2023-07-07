@@ -1,0 +1,8 @@
+Git init -在本機端將資料設定為repository資料夾
+Git remote add 將資料夾對應到github git remote add origin git@github.com:Wang-Chiawei/flutter-gcp-aws.git
+
+Git add選擇要上傳的檔案
+
+Git commit -m "備註"
+
+Git push origin main
